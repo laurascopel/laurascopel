@@ -30,8 +30,7 @@ Currently, I am focused on specializing in Front-End development, combining code
 [![My Skills](https://skillicons.dev/icons?i=git,github,postman,vite,maven)](https://skillicons.dev)
 
 ## 🚀 GitHub Stats
-
-![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=laurascopel&show_icons=true&theme=tokyonight)
+[![GitHub stats](https://github-stats-extended.vercel.app/api?username=laurascopel&show_icons=true&theme=tokyonight)](https://github.com/stats-organization/github-stats-extended)
 
 ## 📫 Contact
 
